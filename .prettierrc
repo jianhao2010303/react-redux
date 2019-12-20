@@ -1,0 +1,9 @@
+{
+    "printWidth": 300,
+    "eslintIntegration": true,
+    "stylelintIntegration": true,
+    "tabWidth": 4,
+    "singleQuote": true,
+    "jsxBracketSameLine": true,
+    "semi": false
+}
